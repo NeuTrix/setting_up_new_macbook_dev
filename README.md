@@ -8,6 +8,7 @@ https://alexw.me/2013/10/definitive-guid-to-development-mac-setup/
 - iTerm 2: terminal
 - Sublime: text editor
 - X-Code: Mac dev environment to enable Git
+-- Yarn
 
 ### Git
 - Setting up a new remote
@@ -15,3 +16,7 @@ https://alexw.me/2013/10/definitive-guid-to-development-mac-setup/
 ## Helpful apps
 - Alfred app: search
 - spectacle: window management
+
+### Iterm 3
+- Color profiles (Plumbtree from Iterm Profiles folder, local) <link>
+
