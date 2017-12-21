@@ -11,7 +11,7 @@ Mac dev environment to enable Git.  To install the command line tools:
 
 *In order to set up global storage of git login (to eliminate continuous prompts:*
 ```bash
-  $ git config credential.helper store
+$ git config credential.helper store
 $ git push http://example.com/repo.git
 Username: <type your username>
 Password: <type your password>
@@ -22,7 +22,7 @@ A better way to terminal
 ### Install [Sublime](https://www.sublimetext.com/download)
 This is my favorite text editor
 
-### [Install Homebrew](https://www.howtogeek.com/211541/homebrew-for-os-x-easily-installs-desktop-apps-and-terminal-utilities/)
+### Install [Homebrew](https://www.howtogeek.com/211541/homebrew-for-os-x-easily-installs-desktop-apps-and-terminal-utilities/)
 Make sure you have the xcode command line tools installed, then run:
 
 - `ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
@@ -31,9 +31,16 @@ Make sure you have the xcode command line tools installed, then run:
 
 -- Yarn
 -- NPM
+### Install [Node](http://blog.teamtreehouse.com/install-node-js-npm-mac)
+- `brew install node`
+- verify with: `node -v`
+-----------
 
 ### Git
 - Setting up a new remote
+
+
+-------------
 
 ## Helpful apps
 - Alfred app: search
