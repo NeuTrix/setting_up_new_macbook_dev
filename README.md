@@ -1,7 +1,7 @@
 # settingup_new_macbook_dev
 Tracking resources used to set up my macbook dev environment
 
-## Key links
+# Key links
 [How to set up- Guide](https://alexw.me/2013/10/definitive-guid-to-development-mac-setup/)
 
 # Install Core Applications
@@ -47,6 +47,10 @@ Make sure you have the xcode command line tools installed, then run:
 ### Install [Node](http://blog.teamtreehouse.com/install-node-js-npm-mac)
 - `brew install node`
 - `node -v` to verify installation
+
+## Install [Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs#introduction)
+For app deployment`
+
 
 -----------
 
