@@ -5,6 +5,7 @@ Tracking resources used to set up my macbook dev environment
 [How to set up- Guide](https://alexw.me/2013/10/definitive-guid-to-development-mac-setup/)
 
 # Install Core Applications
+
 ### Enable Git- Install [X-Code]() 
 Mac dev environment to enable Git.  To install the command line tools:
 - `xcode-select --install`
@@ -26,6 +27,8 @@ touch .bash_profile
 ```
 You can open and edit this file with a text editor.  With nano:
 `nano ~/.bash_profile`
+
+My profile, as of 2017.12.18 is [here](https://gist.github.com/NeuTrix/7cf4cddd6ae7c713253acacaeb46209e/edit)
 
 ### Install [Sublime](https://www.sublimetext.com/download)
 This is my favorite text editor.  To set it up as default editor in your bash profile, follow [these instructions](https://stackoverflow.com/questions/16199581/open-sublime-text-from-terminal-in-macos)
