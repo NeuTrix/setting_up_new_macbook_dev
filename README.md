@@ -19,8 +19,16 @@ Password: <type your password>
 ### Install [iTerm 3]
 A better way to terminal
 
+### Set up a [bash_profile](https://redfinsolutions.com/blog/creating-bashprofile-your-mac)
+```
+cd ~
+touch .bash_profile
+```
+You can open and edit this file with a text editor.  With nano:
+`nano ~/.bash_profile`
+
 ### Install [Sublime](https://www.sublimetext.com/download)
-This is my favorite text editor
+This is my favorite text editor.  To set it up as default editor in your bash profile, follow [these instructions](https://stackoverflow.com/questions/16199581/open-sublime-text-from-terminal-in-macos)
 
 ### Install [Homebrew](https://www.howtogeek.com/211541/homebrew-for-os-x-easily-installs-desktop-apps-and-terminal-utilities/)
 Make sure you have the xcode command line tools installed, then run:
@@ -35,12 +43,12 @@ Make sure you have the xcode command line tools installed, then run:
 
 ### Install [Node](http://blog.teamtreehouse.com/install-node-js-npm-mac)
 - `brew install node`
-- verify with: `node -v`
+- `node -v` to verify installation
 
--- NPM
 -----------
 
 # Usefull packages
+-- NPM
 
 ## Global
 -- [tree-cli](https://www.npmjs.com/package/tree-cli)
