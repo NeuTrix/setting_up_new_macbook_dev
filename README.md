@@ -29,15 +29,26 @@ Make sure you have the xcode command line tools installed, then run:
 - `brew doctor`
 - `brew install caskroom/cask/brew-cask`
 
--- Yarn
--- NPM
+### Install [Yarn](https://yarnpkg.com/lang/en/docs/install/)
+- `brew install yarn`
+
+
 ### Install [Node](http://blog.teamtreehouse.com/install-node-js-npm-mac)
 - `brew install node`
 - verify with: `node -v`
+
+-- NPM
 -----------
+
+# Usefull packages
+
+## Global
+-- [tree-cli](https://www.npmjs.com/package/tree-cli)
+
 
 ### Git
 - Setting up a new remote
+
 
 
 -------------
