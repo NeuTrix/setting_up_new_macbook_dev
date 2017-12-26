@@ -49,8 +49,12 @@ Make sure you have the xcode command line tools installed, then run:
 - `node -v` to verify installation
 
 ## Install [Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs#introduction)
-For app deployment`
+For app deployment
 
+
+## Install [MongoDB](https://treehouse.github.io/installation-guides/mac/mongo-mac.html)
+
+## Install Firebase
 
 -----------
 
