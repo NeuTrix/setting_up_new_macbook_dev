@@ -43,7 +43,6 @@ Make sure you have the xcode command line tools installed, then run:
 ### Install [Yarn](https://yarnpkg.com/lang/en/docs/install/)
 - `brew install yarn`
 
-
 ### Install [Node](http://blog.teamtreehouse.com/install-node-js-npm-mac)
 - `brew install node`
 - `node -v` to verify installation
@@ -53,6 +52,9 @@ For app deployment
 
 
 ## Install [MongoDB](https://treehouse.github.io/installation-guides/mac/mongo-mac.html)
+
+## Install [express-generator](https://expressjs.com/en/starter/generator.html)
+- `$ npm install express-generator -g`
 
 ## Install Firebase
 
