@@ -30,6 +30,10 @@ You can open and edit this file with a text editor.  With nano:
 
 My profile, as of 2017.12.18 is [here](https://gist.github.com/NeuTrix/7cf4cddd6ae7c713253acacaeb46209e/edit)
 
+### Setting up [Visual Studio Code](https://code.visualstudio.com/docs/setup/mac) in your bash profile
+If you prefer VSC, then follow this [quick guidline](https://code.visualstudio.com/docs/setup/mac) for linking it to your bash profile
+
+
 ### Install [Sublime](https://www.sublimetext.com/download)
 This is my favorite text editor.  To set it up as default editor in your bash profile, follow [these instructions](https://stackoverflow.com/questions/16199581/open-sublime-text-from-terminal-in-macos)
 
